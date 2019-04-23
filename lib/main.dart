@@ -55,7 +55,7 @@ class _MyHomePageState extends State<MyHomePage> {
             title: Text(titles[index],
         //  textAlign: TextAlign.center,
               style: TextStyle(
-                 fontSize: 25.0,
+                 fontSize: 24.0,
                 color: Colors.white
 
               ),
